@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Bienvenidos a mi perfil de GitHub.<br>Mi nombre es Santiago Castillo, tengo 26 años y soy oriundo de Córdoba, Argentina. Me gradué como Técnico Superior en Programación en Teclab.<br>Cuento con sólidos conocimientos en Angular, TypeScript, JavaScript, Node.js, HTML, CSS y manejo de bases de datos como MySQL.<br>Soy una persona apasionada por la tecnología, con una fuerte orientación al trabajo en equipo y a la mejora continua.<br>Gracias por visitar mi perfil; será un gusto compartir proyectos, ideas y crecimiento profesional.
+Bienvenidos a mi perfil de GitHub.<br>Mi nombre es Santiago Castillo, tengo 27 años y soy oriundo de Córdoba, Argentina. Me gradué como Técnico Superior en Programación en Teclab.<br>Cuento con sólidos conocimientos en Angular, TypeScript, JavaScript, Node.js, HTML, CSS y manejo de bases de datos como MySQL.<br>Soy una persona apasionada por la tecnología, con una fuerte orientación al trabajo en equipo y a la mejora continua.<br>Gracias por visitar mi perfil; será un gusto compartir proyectos, ideas y crecimiento profesional.
 
 
 ## 🌐 Socials:
